@@ -1,0 +1,21 @@
+# lazy.nvim lockfile
+lazy-lock.json
+
+# Plugin directories (managed by lazy.nvim)
+plugin/
+
+# Neovim state and cache files
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Backup files
+*.bak
+
+# Claude Code metadata
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
